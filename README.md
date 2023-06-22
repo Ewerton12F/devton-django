@@ -1,12 +1,12 @@
 # Hello
 
-This is the basis of a Django+Postgres+Next.js private project. You can use for building you own app. Give a look above for more details.
+This the documentation is under construction 🚧
 
-## Railway + Vercel
+## Deployment on Vercel
 
-I deployed the Django+Postgres on a Railway server. You can access the API [here][railway].
+- Django+Postgres: You can access the API [here][railway].
 
-I deployed the Next.js website on a Vercel server. You can access [here][vercel]. The Github repository can be found [here][next-repo].
+- Next.js (React): You can access [here][vercel]. The Github repository can be found [here][next-repo].
 
 ## Index
 
@@ -191,7 +191,7 @@ if settings.DEBUG:
 🚧 Under construction 🚧
 
 
-[django-repo]: https://github.com/django/django
-[next-repo]: https://github.com/Ewerton12F/test-website
-[railway]: https://teste-server-production.up.railway.app/api/services-list
-[vercel]: https://test-website-rho-three.vercel.app/
+[django-repo]: https://github.com/Ewerton12F/devton-django
+[next-repo]: https://github.com/Ewerton12F/devton
+[railway]: https://teste-server-2.vercel.app/api/services-list
+[vercel]: https://www.devton.tech/
