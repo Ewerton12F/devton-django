@@ -1,2 +1,1 @@
-# devton-django
-backend
+# 🚧 This page will be updated soon!
